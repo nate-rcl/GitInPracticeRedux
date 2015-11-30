@@ -1,0 +1,11 @@
+This is new stuff
+TODO: write book
+More Stuff
+another line
+<<<<<<< HEAD:GitInPractice.asciidoc
+
+
+
+=======
+Test Merge
+>>>>>>> b0ec232bb042d952dac4ceabc52922b0ec5b3a1b:01-GitInPractice.asciidoc
